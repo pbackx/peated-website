@@ -33,5 +33,5 @@ gem 'jekyll-redirect-from'
 
 # Security warnings
 gem "kramdown", "~> 2.3.0"
-gem "nokogiri", "~> 1.10.8"
+gem "nokogiri", "~> 1.11.4"
 gem "activesupport", "~> 4.1.11"
